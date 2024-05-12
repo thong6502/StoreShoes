@@ -1,0 +1,270 @@
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\shoe_store_manager.exe.config
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\shoe_store_manager.exe
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\shoe_store_manager.pdb
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\AForge.dll
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\AForge.Video.DirectShow.dll
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\AForge.Video.dll
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\GumroadLicensing.dll
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\Newtonsoft.Json.dll
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\zxing.dll
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\zxing.presentation.dll
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\AForge.xml
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\AForge.Video.xml
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\AForge.Video.DirectShow.xml
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\Newtonsoft.Json.xml
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\zxing.xml
+D:\Đồ án Shoe\source\StoreShoe\bin\Debug\zxing.presentation.xml
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\StoreShoe.csproj.AssemblyReference.cache
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.all_don_hang.resources
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.ban_hang.resources
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.LoginForm.resources
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.MainForm.resources
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.nhap_hang.resources
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.nha_cung_cap.resources
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.nhan_vien.resources
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.Properties.Resources.resources
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.san_pham.resources
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.tai_khoan.resources
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\StoreShoe.csproj.GenerateResource.cache
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\StoreShoe.csproj.CoreCompileInputs.cache
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\StoreShoe.csproj.CopyComplete
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.exe
+D:\Đồ án Shoe\source\StoreShoe\obj\Debug\shoe_store_manager.pdb
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\shoe_store_manager.exe.config
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\shoe_store_manager.exe
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\shoe_store_manager.pdb
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.Video.DirectShow.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.Video.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\GumroadLicensing.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Newtonsoft.Json.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zxing.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zxing.presentation.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.xml
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.Video.xml
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.Video.DirectShow.xml
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Newtonsoft.Json.xml
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zxing.xml
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zxing.presentation.xml
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj.AssemblyReference.cache
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.all_don_hang.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.ban_hang.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.LoginForm.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.MainForm.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.nhap_hang.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.nha_cung_cap.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.nhan_vien.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.Properties.Resources.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.san_pham.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.tai_khoan.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj.GenerateResource.cache
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj.CoreCompileInputs.cache
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj.CopyComplete
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.exe
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.pdb
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.bao_cao.resources
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.WinForms.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.Wpf.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.pdb
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.xml
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.WinForms.pdb
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.WinForms.xml
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.Wpf.pdb
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.Wpf.xml
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Guna.Charts.WinForms.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Guna.Charts.WinForms.xml
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\EnvDTE.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\stdole.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.MSXML.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\shoe_store_manager.exe.config
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\shoe_store_manager.exe
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\shoe_store_manager.pdb
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.Video.DirectShow.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.Video.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\GumroadLicensing.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Guna.Charts.WinForms.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.WinForms.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.Wpf.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Newtonsoft.Json.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zxing.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zxing.presentation.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\EnvDTE.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\stdole.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Microsoft.MSXML.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.xml
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.Video.xml
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.Video.DirectShow.xml
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Guna.Charts.WinForms.xml
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.pdb
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.xml
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.WinForms.pdb
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.WinForms.xml
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.Wpf.pdb
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.Wpf.xml
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Newtonsoft.Json.xml
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zxing.xml
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zxing.presentation.xml
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj.AssemblyReference.cache
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.all_don_hang.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.ban_hang.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.bao_cao.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.LoginForm.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.MainForm.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.nhap_hang.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.nha_cung_cap.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.nhan_vien.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.Properties.Resources.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.san_pham.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.tai_khoan.resources
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj.GenerateResource.cache
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj.CoreCompileInputs.cache
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj.Up2Date
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.exe
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.pdb
