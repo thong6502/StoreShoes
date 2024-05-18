@@ -160,7 +160,6 @@ C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.dll
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.Video.DirectShow.dll
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\AForge.Video.dll
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\GumroadLicensing.dll
-C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Guna.Charts.WinForms.dll
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.dll
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.WinForms.dll
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\LiveCharts.Wpf.dll
@@ -268,3 +267,4 @@ C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj.Up2Date
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.exe
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.pdb
+C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\Guna.UI2.dll

@@ -12,13 +12,15 @@ namespace shoe_store_manager
 {
     public partial class MainForm : Form
     {
-
-        public event EventHandler Logout;
+        // Singleton instance
+        public static MainForm Instance { get; private set; }
         private int minH;
         private int maxH;   
         public MainForm()
         {
             InitializeComponent();
+            // Set the singleton instance
+            Instance = this;
 
         }
 
@@ -136,7 +138,7 @@ namespace shoe_store_manager
             label_val.Text = "Thống kê";
             img_top.Image = Properties.Resources.report;
             default_color();
-            container(new bao_cao());
+            //container(new bao_cao());
         }
 
         bool menuExpand_donHang = true;
@@ -251,9 +253,12 @@ namespace shoe_store_manager
             container(new tai_khoan());
         }
 
+
         public void btn_dangXuat_Click(object sender, EventArgs e)
         {
-            Logout(this, new EventArgs());
+            //Logout(this, new EventArgs());
+            this.Hide();
+            LoginForm.instance.Show();
         }
 
     }

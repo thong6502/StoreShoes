@@ -180,11 +180,6 @@ namespace shoe_store_manager
                         {
                             if (i < 7)
                                 _listBox.Height += _listBox.GetItemHeight(i);
-                                
-                            // it item width is larger than the current one
-                            // set it to the new max item width
-                            // GetItemRectangle does not work for me
-                            // we add a little extra space by using '_'
                             int itemWidth = (int)graphics.MeasureString(((string)_listBox.Items[i]) + "_", _listBox.Font).Width;
                             _listBox.Width = this.Width; ;
                         }

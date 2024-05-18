@@ -34,7 +34,6 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             this.xac_nhan = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.box_filter = new Guna.UI2.WinForms.Guna2ShadowPanel();
             this.label1 = new System.Windows.Forms.Label();
             this.cbx_filter = new Guna.UI2.WinForms.Guna2ComboBox();
@@ -50,25 +49,11 @@
             this.warning4 = new Guna.UI2.WinForms.Guna2Button();
             this.huy = new Guna.UI2.WinForms.Guna2Button();
             this.warning3 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2HtmlLabel4 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.tb_chucVu = new Guna.UI2.WinForms.Guna2TextBox();
             this.tb_address = new Guna.UI2.WinForms.Guna2TextBox();
             this.tb_phone = new Guna.UI2.WinForms.Guna2TextBox();
             this.tb_name = new Guna.UI2.WinForms.Guna2TextBox();
             this.data = new Guna.UI2.WinForms.Guna2DataGridView();
-            this.container_edit_box = new Guna.UI2.WinForms.Guna2ShadowPanel();
-            this.guna2ShadowPanel2 = new Guna.UI2.WinForms.Guna2ShadowPanel();
-            this.btn_close = new Guna.UI2.WinForms.Guna2Button();
-            this.edit_box = new Guna.UI.WinForms.GunaPanel();
-            this.guna2ShadowPanel1 = new Guna.UI2.WinForms.Guna2ShadowPanel();
-            this.warning5 = new Guna.UI2.WinForms.Guna2Button();
-            this.tb_Email = new Guna.UI2.WinForms.Guna2TextBox();
-            this.guna2HtmlLabel6 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.tb_Luong = new Guna.UI2.WinForms.Guna2TextBox();
-            this.guna2HtmlLabel5 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.CapTaiKhoan = new Guna.UI2.WinForms.Guna2Button();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -78,6 +63,21 @@
             this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.container_edit_box = new Guna.UI2.WinForms.Guna2ShadowPanel();
+            this.guna2ShadowPanel2 = new Guna.UI2.WinForms.Guna2ShadowPanel();
+            this.btn_close = new Guna.UI2.WinForms.Guna2Button();
+            this.edit_box = new Guna.UI.WinForms.GunaPanel();
+            this.guna2ShadowPanel1 = new Guna.UI2.WinForms.Guna2ShadowPanel();
+            this.warning5 = new Guna.UI2.WinForms.Guna2Button();
+            this.tb_Email = new Guna.UI2.WinForms.Guna2TextBox();
+            this.tb_Luong = new Guna.UI2.WinForms.Guna2TextBox();
+            this.CapTaiKhoan = new Guna.UI2.WinForms.Guna2Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
             this.box_filter.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.data)).BeginInit();
             this.container_edit_box.SuspendLayout();
@@ -115,17 +115,6 @@
             this.xac_nhan.Text = "Xác nhận";
             this.xac_nhan.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.xac_nhan.Click += new System.EventHandler(this.xac_nhan_Click);
-            // 
-            // guna2HtmlLabel2
-            // 
-            this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel2.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel2.Location = new System.Drawing.Point(33, 95);
-            this.guna2HtmlLabel2.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            this.guna2HtmlLabel2.Size = new System.Drawing.Size(51, 23);
-            this.guna2HtmlLabel2.TabIndex = 1;
-            this.guna2HtmlLabel2.Text = "Địa chỉ";
             // 
             // box_filter
             // 
@@ -363,7 +352,7 @@
             this.warning1.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.warning1.ImageOffset = new System.Drawing.Point(3, 0);
             this.warning1.ImageSize = new System.Drawing.Size(15, 15);
-            this.warning1.Location = new System.Drawing.Point(143, 12);
+            this.warning1.Location = new System.Drawing.Point(144, 10);
             this.warning1.Margin = new System.Windows.Forms.Padding(4);
             this.warning1.Name = "warning1";
             this.warning1.Size = new System.Drawing.Size(144, 23);
@@ -497,7 +486,7 @@
             this.warning3.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.warning3.ImageOffset = new System.Drawing.Point(3, 0);
             this.warning3.ImageSize = new System.Drawing.Size(15, 15);
-            this.warning3.Location = new System.Drawing.Point(139, 191);
+            this.warning3.Location = new System.Drawing.Point(72, 194);
             this.warning3.Margin = new System.Windows.Forms.Padding(4);
             this.warning3.Name = "warning3";
             this.warning3.Size = new System.Drawing.Size(144, 23);
@@ -505,39 +494,6 @@
             this.warning3.Text = "Nội dung trống";
             this.warning3.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.warning3.UseTransparentBackground = true;
-            // 
-            // guna2HtmlLabel3
-            // 
-            this.guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel3.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel3.Location = new System.Drawing.Point(33, 188);
-            this.guna2HtmlLabel3.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2HtmlLabel3.Name = "guna2HtmlLabel3";
-            this.guna2HtmlLabel3.Size = new System.Drawing.Size(99, 23);
-            this.guna2HtmlLabel3.TabIndex = 1;
-            this.guna2HtmlLabel3.Text = "Số điện thoại";
-            // 
-            // guna2HtmlLabel4
-            // 
-            this.guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel4.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel4.Location = new System.Drawing.Point(33, 282);
-            this.guna2HtmlLabel4.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2HtmlLabel4.Name = "guna2HtmlLabel4";
-            this.guna2HtmlLabel4.Size = new System.Drawing.Size(61, 23);
-            this.guna2HtmlLabel4.TabIndex = 1;
-            this.guna2HtmlLabel4.Text = "Chức vụ";
-            // 
-            // guna2HtmlLabel1
-            // 
-            this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(33, 10);
-            this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(103, 23);
-            this.guna2HtmlLabel1.TabIndex = 1;
-            this.guna2HtmlLabel1.Text = "Tên nhân viên";
             // 
             // tb_chucVu
             // 
@@ -710,223 +666,6 @@
             this.data.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.White;
             this.data.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.data_CellContentClick);
             // 
-            // container_edit_box
-            // 
-            this.container_edit_box.BackColor = System.Drawing.Color.Transparent;
-            this.container_edit_box.Controls.Add(this.guna2ShadowPanel2);
-            this.container_edit_box.Controls.Add(this.edit_box);
-            this.container_edit_box.FillColor = System.Drawing.Color.White;
-            this.container_edit_box.Location = new System.Drawing.Point(303, 34);
-            this.container_edit_box.Margin = new System.Windows.Forms.Padding(4);
-            this.container_edit_box.Name = "container_edit_box";
-            this.container_edit_box.Radius = 6;
-            this.container_edit_box.ShadowColor = System.Drawing.Color.Black;
-            this.container_edit_box.Size = new System.Drawing.Size(516, 543);
-            this.container_edit_box.TabIndex = 48;
-            this.container_edit_box.Visible = false;
-            // 
-            // guna2ShadowPanel2
-            // 
-            this.guna2ShadowPanel2.BackColor = System.Drawing.Color.Transparent;
-            this.guna2ShadowPanel2.Controls.Add(this.btn_close);
-            this.guna2ShadowPanel2.FillColor = System.Drawing.Color.White;
-            this.guna2ShadowPanel2.Location = new System.Drawing.Point(9, 7);
-            this.guna2ShadowPanel2.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2ShadowPanel2.Name = "guna2ShadowPanel2";
-            this.guna2ShadowPanel2.ShadowColor = System.Drawing.Color.Black;
-            this.guna2ShadowPanel2.ShadowShift = 0;
-            this.guna2ShadowPanel2.Size = new System.Drawing.Size(499, 41);
-            this.guna2ShadowPanel2.TabIndex = 33;
-            // 
-            // btn_close
-            // 
-            this.btn_close.BackColor = System.Drawing.Color.Transparent;
-            this.btn_close.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.btn_close.BorderColor = System.Drawing.Color.Transparent;
-            this.btn_close.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btn_close.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btn_close.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btn_close.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btn_close.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btn_close.FillColor = System.Drawing.Color.Transparent;
-            this.btn_close.FocusedColor = System.Drawing.Color.White;
-            this.btn_close.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold);
-            this.btn_close.ForeColor = System.Drawing.Color.White;
-            this.btn_close.HoverState.FillColor = System.Drawing.Color.Transparent;
-            this.btn_close.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
-            this.btn_close.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image12")));
-            this.btn_close.Image = ((System.Drawing.Image)(resources.GetObject("btn_close.Image")));
-            this.btn_close.ImageSize = new System.Drawing.Size(17, 17);
-            this.btn_close.Location = new System.Drawing.Point(469, 7);
-            this.btn_close.Margin = new System.Windows.Forms.Padding(0);
-            this.btn_close.Name = "btn_close";
-            this.btn_close.Size = new System.Drawing.Size(27, 25);
-            this.btn_close.TabIndex = 8;
-            this.btn_close.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.btn_close.UseTransparentBackground = true;
-            this.btn_close.Click += new System.EventHandler(this.huy_Click);
-            // 
-            // edit_box
-            // 
-            this.edit_box.AutoScroll = true;
-            this.edit_box.BackColor = System.Drawing.Color.White;
-            this.edit_box.Controls.Add(this.warning4);
-            this.edit_box.Controls.Add(this.guna2ShadowPanel1);
-            this.edit_box.Controls.Add(this.warning5);
-            this.edit_box.Controls.Add(this.warning3);
-            this.edit_box.Controls.Add(this.warning2);
-            this.edit_box.Controls.Add(this.warning1);
-            this.edit_box.Controls.Add(this.xac_nhan);
-            this.edit_box.Controls.Add(this.tb_name);
-            this.edit_box.Controls.Add(this.huy);
-            this.edit_box.Controls.Add(this.tb_Email);
-            this.edit_box.Controls.Add(this.tb_phone);
-            this.edit_box.Controls.Add(this.guna2HtmlLabel2);
-            this.edit_box.Controls.Add(this.tb_address);
-            this.edit_box.Controls.Add(this.guna2HtmlLabel6);
-            this.edit_box.Controls.Add(this.guna2HtmlLabel3);
-            this.edit_box.Controls.Add(this.tb_Luong);
-            this.edit_box.Controls.Add(this.guna2HtmlLabel5);
-            this.edit_box.Controls.Add(this.tb_chucVu);
-            this.edit_box.Controls.Add(this.guna2HtmlLabel4);
-            this.edit_box.Controls.Add(this.guna2HtmlLabel1);
-            this.edit_box.Location = new System.Drawing.Point(9, 46);
-            this.edit_box.Margin = new System.Windows.Forms.Padding(4);
-            this.edit_box.Name = "edit_box";
-            this.edit_box.Size = new System.Drawing.Size(499, 494);
-            this.edit_box.TabIndex = 33;
-            // 
-            // guna2ShadowPanel1
-            // 
-            this.guna2ShadowPanel1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2ShadowPanel1.Enabled = false;
-            this.guna2ShadowPanel1.FillColor = System.Drawing.Color.Transparent;
-            this.guna2ShadowPanel1.Location = new System.Drawing.Point(4, 4);
-            this.guna2ShadowPanel1.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2ShadowPanel1.Name = "guna2ShadowPanel1";
-            this.guna2ShadowPanel1.ShadowColor = System.Drawing.Color.Black;
-            this.guna2ShadowPanel1.ShadowShift = 0;
-            this.guna2ShadowPanel1.Size = new System.Drawing.Size(13, 672);
-            this.guna2ShadowPanel1.TabIndex = 10;
-            // 
-            // warning5
-            // 
-            this.warning5.BackColor = System.Drawing.Color.Transparent;
-            this.warning5.DisabledState.BorderColor = System.Drawing.Color.Transparent;
-            this.warning5.DisabledState.CustomBorderColor = System.Drawing.Color.Transparent;
-            this.warning5.DisabledState.FillColor = System.Drawing.Color.Transparent;
-            this.warning5.DisabledState.ForeColor = System.Drawing.Color.Red;
-            this.warning5.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image13")));
-            this.warning5.Enabled = false;
-            this.warning5.FillColor = System.Drawing.Color.Transparent;
-            this.warning5.Font = new System.Drawing.Font("Segoe UI", 7F);
-            this.warning5.ForeColor = System.Drawing.Color.Red;
-            this.warning5.Image = ((System.Drawing.Image)(resources.GetObject("warning5.Image")));
-            this.warning5.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.warning5.ImageOffset = new System.Drawing.Point(3, 0);
-            this.warning5.ImageSize = new System.Drawing.Size(15, 15);
-            this.warning5.Location = new System.Drawing.Point(71, 384);
-            this.warning5.Margin = new System.Windows.Forms.Padding(4);
-            this.warning5.Name = "warning5";
-            this.warning5.Size = new System.Drawing.Size(144, 23);
-            this.warning5.TabIndex = 9;
-            this.warning5.Text = "Nội dung trống";
-            this.warning5.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.warning5.UseTransparentBackground = true;
-            // 
-            // tb_Email
-            // 
-            this.tb_Email.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.tb_Email.DefaultText = "";
-            this.tb_Email.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.tb_Email.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.tb_Email.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.tb_Email.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.tb_Email.FocusedState.BorderColor = System.Drawing.Color.Black;
-            this.tb_Email.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold);
-            this.tb_Email.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.tb_Email.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(218)))), ((int)(((byte)(223)))));
-            this.tb_Email.Location = new System.Drawing.Point(33, 415);
-            this.tb_Email.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.tb_Email.Name = "tb_Email";
-            this.tb_Email.PasswordChar = '\0';
-            this.tb_Email.PlaceholderText = "";
-            this.tb_Email.SelectedText = "";
-            this.tb_Email.Size = new System.Drawing.Size(415, 46);
-            this.tb_Email.TabIndex = 0;
-            this.tb_Email.TextChanged += new System.EventHandler(this.TextBox_TextChanged);
-            // 
-            // guna2HtmlLabel6
-            // 
-            this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel6.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel6.Location = new System.Drawing.Point(33, 384);
-            this.guna2HtmlLabel6.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
-            this.guna2HtmlLabel6.Size = new System.Drawing.Size(41, 23);
-            this.guna2HtmlLabel6.TabIndex = 1;
-            this.guna2HtmlLabel6.Text = "Email";
-            // 
-            // tb_Luong
-            // 
-            this.tb_Luong.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.tb_Luong.DefaultText = "0 đ";
-            this.tb_Luong.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.tb_Luong.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.tb_Luong.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.tb_Luong.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.tb_Luong.FocusedState.BorderColor = System.Drawing.Color.Black;
-            this.tb_Luong.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold);
-            this.tb_Luong.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.tb_Luong.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(218)))), ((int)(((byte)(223)))));
-            this.tb_Luong.Location = new System.Drawing.Point(33, 507);
-            this.tb_Luong.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.tb_Luong.Name = "tb_Luong";
-            this.tb_Luong.PasswordChar = '\0';
-            this.tb_Luong.PlaceholderText = "";
-            this.tb_Luong.SelectedText = "";
-            this.tb_Luong.Size = new System.Drawing.Size(415, 46);
-            this.tb_Luong.TabIndex = 0;
-            this.tb_Luong.TextChanged += new System.EventHandler(this.tb_Luong_TextChanged);
-            // 
-            // guna2HtmlLabel5
-            // 
-            this.guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel5.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel5.Location = new System.Drawing.Point(33, 478);
-            this.guna2HtmlLabel5.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
-            this.guna2HtmlLabel5.Size = new System.Drawing.Size(50, 23);
-            this.guna2HtmlLabel5.TabIndex = 1;
-            this.guna2HtmlLabel5.Text = "Lương";
-            // 
-            // CapTaiKhoan
-            // 
-            this.CapTaiKhoan.Animated = true;
-            this.CapTaiKhoan.BackColor = System.Drawing.Color.Transparent;
-            this.CapTaiKhoan.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(218)))), ((int)(((byte)(223)))));
-            this.CapTaiKhoan.BorderRadius = 4;
-            this.CapTaiKhoan.BorderThickness = 1;
-            this.CapTaiKhoan.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.CapTaiKhoan.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.CapTaiKhoan.FillColor = System.Drawing.Color.White;
-            this.CapTaiKhoan.FocusedColor = System.Drawing.Color.Transparent;
-            this.CapTaiKhoan.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold);
-            this.CapTaiKhoan.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(106)))), ((int)(((byte)(106)))), ((int)(((byte)(111)))));
-            this.CapTaiKhoan.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(0)))), ((int)(((byte)(164)))));
-            this.CapTaiKhoan.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
-            this.CapTaiKhoan.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image14")));
-            this.CapTaiKhoan.Image = ((System.Drawing.Image)(resources.GetObject("CapTaiKhoan.Image")));
-            this.CapTaiKhoan.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.CapTaiKhoan.Location = new System.Drawing.Point(419, 95);
-            this.CapTaiKhoan.Margin = new System.Windows.Forms.Padding(4);
-            this.CapTaiKhoan.Name = "CapTaiKhoan";
-            this.CapTaiKhoan.Size = new System.Drawing.Size(212, 50);
-            this.CapTaiKhoan.TabIndex = 27;
-            this.CapTaiKhoan.Text = "Cấp tài khoản";
-            this.CapTaiKhoan.TextOffset = new System.Drawing.Point(5, 0);
-            this.CapTaiKhoan.Click += new System.EventHandler(this.CapTaiKhoan_Click);
-            // 
             // Column1
             // 
             this.Column1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
@@ -1001,6 +740,261 @@
             this.Column9.Name = "Column9";
             this.Column9.ReadOnly = true;
             // 
+            // container_edit_box
+            // 
+            this.container_edit_box.BackColor = System.Drawing.Color.Transparent;
+            this.container_edit_box.Controls.Add(this.guna2ShadowPanel2);
+            this.container_edit_box.Controls.Add(this.edit_box);
+            this.container_edit_box.FillColor = System.Drawing.Color.White;
+            this.container_edit_box.Location = new System.Drawing.Point(303, 34);
+            this.container_edit_box.Margin = new System.Windows.Forms.Padding(4);
+            this.container_edit_box.Name = "container_edit_box";
+            this.container_edit_box.Radius = 6;
+            this.container_edit_box.ShadowColor = System.Drawing.Color.Black;
+            this.container_edit_box.Size = new System.Drawing.Size(516, 543);
+            this.container_edit_box.TabIndex = 48;
+            this.container_edit_box.Visible = false;
+            // 
+            // guna2ShadowPanel2
+            // 
+            this.guna2ShadowPanel2.BackColor = System.Drawing.Color.Transparent;
+            this.guna2ShadowPanel2.Controls.Add(this.btn_close);
+            this.guna2ShadowPanel2.FillColor = System.Drawing.Color.White;
+            this.guna2ShadowPanel2.Location = new System.Drawing.Point(9, 7);
+            this.guna2ShadowPanel2.Margin = new System.Windows.Forms.Padding(4);
+            this.guna2ShadowPanel2.Name = "guna2ShadowPanel2";
+            this.guna2ShadowPanel2.ShadowColor = System.Drawing.Color.Black;
+            this.guna2ShadowPanel2.ShadowShift = 0;
+            this.guna2ShadowPanel2.Size = new System.Drawing.Size(499, 41);
+            this.guna2ShadowPanel2.TabIndex = 33;
+            // 
+            // btn_close
+            // 
+            this.btn_close.BackColor = System.Drawing.Color.Transparent;
+            this.btn_close.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btn_close.BorderColor = System.Drawing.Color.Transparent;
+            this.btn_close.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btn_close.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_close.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btn_close.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btn_close.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btn_close.FillColor = System.Drawing.Color.Transparent;
+            this.btn_close.FocusedColor = System.Drawing.Color.White;
+            this.btn_close.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold);
+            this.btn_close.ForeColor = System.Drawing.Color.White;
+            this.btn_close.HoverState.FillColor = System.Drawing.Color.Transparent;
+            this.btn_close.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
+            this.btn_close.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image12")));
+            this.btn_close.Image = ((System.Drawing.Image)(resources.GetObject("btn_close.Image")));
+            this.btn_close.ImageSize = new System.Drawing.Size(17, 17);
+            this.btn_close.Location = new System.Drawing.Point(469, 7);
+            this.btn_close.Margin = new System.Windows.Forms.Padding(0);
+            this.btn_close.Name = "btn_close";
+            this.btn_close.Size = new System.Drawing.Size(27, 25);
+            this.btn_close.TabIndex = 8;
+            this.btn_close.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.btn_close.UseTransparentBackground = true;
+            this.btn_close.Click += new System.EventHandler(this.huy_Click);
+            // 
+            // edit_box
+            // 
+            this.edit_box.AutoScroll = true;
+            this.edit_box.BackColor = System.Drawing.Color.White;
+            this.edit_box.Controls.Add(this.label5);
+            this.edit_box.Controls.Add(this.label3);
+            this.edit_box.Controls.Add(this.label6);
+            this.edit_box.Controls.Add(this.label7);
+            this.edit_box.Controls.Add(this.label4);
+            this.edit_box.Controls.Add(this.label2);
+            this.edit_box.Controls.Add(this.warning4);
+            this.edit_box.Controls.Add(this.guna2ShadowPanel1);
+            this.edit_box.Controls.Add(this.warning5);
+            this.edit_box.Controls.Add(this.warning3);
+            this.edit_box.Controls.Add(this.warning2);
+            this.edit_box.Controls.Add(this.warning1);
+            this.edit_box.Controls.Add(this.xac_nhan);
+            this.edit_box.Controls.Add(this.tb_name);
+            this.edit_box.Controls.Add(this.huy);
+            this.edit_box.Controls.Add(this.tb_Email);
+            this.edit_box.Controls.Add(this.tb_phone);
+            this.edit_box.Controls.Add(this.tb_address);
+            this.edit_box.Controls.Add(this.tb_Luong);
+            this.edit_box.Controls.Add(this.tb_chucVu);
+            this.edit_box.Location = new System.Drawing.Point(9, 46);
+            this.edit_box.Margin = new System.Windows.Forms.Padding(4);
+            this.edit_box.Name = "edit_box";
+            this.edit_box.Size = new System.Drawing.Size(507, 494);
+            this.edit_box.TabIndex = 33;
+            // 
+            // guna2ShadowPanel1
+            // 
+            this.guna2ShadowPanel1.BackColor = System.Drawing.Color.Transparent;
+            this.guna2ShadowPanel1.Enabled = false;
+            this.guna2ShadowPanel1.FillColor = System.Drawing.Color.Transparent;
+            this.guna2ShadowPanel1.Location = new System.Drawing.Point(4, 4);
+            this.guna2ShadowPanel1.Margin = new System.Windows.Forms.Padding(4);
+            this.guna2ShadowPanel1.Name = "guna2ShadowPanel1";
+            this.guna2ShadowPanel1.ShadowColor = System.Drawing.Color.Black;
+            this.guna2ShadowPanel1.ShadowShift = 0;
+            this.guna2ShadowPanel1.Size = new System.Drawing.Size(13, 672);
+            this.guna2ShadowPanel1.TabIndex = 10;
+            // 
+            // warning5
+            // 
+            this.warning5.BackColor = System.Drawing.Color.Transparent;
+            this.warning5.DisabledState.BorderColor = System.Drawing.Color.Transparent;
+            this.warning5.DisabledState.CustomBorderColor = System.Drawing.Color.Transparent;
+            this.warning5.DisabledState.FillColor = System.Drawing.Color.Transparent;
+            this.warning5.DisabledState.ForeColor = System.Drawing.Color.Red;
+            this.warning5.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image13")));
+            this.warning5.Enabled = false;
+            this.warning5.FillColor = System.Drawing.Color.Transparent;
+            this.warning5.Font = new System.Drawing.Font("Segoe UI", 7F);
+            this.warning5.ForeColor = System.Drawing.Color.Red;
+            this.warning5.Image = ((System.Drawing.Image)(resources.GetObject("warning5.Image")));
+            this.warning5.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.warning5.ImageOffset = new System.Drawing.Point(3, 0);
+            this.warning5.ImageSize = new System.Drawing.Size(15, 15);
+            this.warning5.Location = new System.Drawing.Point(83, 387);
+            this.warning5.Margin = new System.Windows.Forms.Padding(4);
+            this.warning5.Name = "warning5";
+            this.warning5.Size = new System.Drawing.Size(144, 23);
+            this.warning5.TabIndex = 9;
+            this.warning5.Text = "Nội dung trống";
+            this.warning5.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.warning5.UseTransparentBackground = true;
+            // 
+            // tb_Email
+            // 
+            this.tb_Email.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.tb_Email.DefaultText = "";
+            this.tb_Email.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.tb_Email.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.tb_Email.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.tb_Email.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.tb_Email.FocusedState.BorderColor = System.Drawing.Color.Black;
+            this.tb_Email.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold);
+            this.tb_Email.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.tb_Email.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(218)))), ((int)(((byte)(223)))));
+            this.tb_Email.Location = new System.Drawing.Point(33, 415);
+            this.tb_Email.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tb_Email.Name = "tb_Email";
+            this.tb_Email.PasswordChar = '\0';
+            this.tb_Email.PlaceholderText = "";
+            this.tb_Email.SelectedText = "";
+            this.tb_Email.Size = new System.Drawing.Size(415, 46);
+            this.tb_Email.TabIndex = 0;
+            this.tb_Email.TextChanged += new System.EventHandler(this.TextBox_TextChanged);
+            // 
+            // tb_Luong
+            // 
+            this.tb_Luong.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.tb_Luong.DefaultText = "0 đ";
+            this.tb_Luong.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.tb_Luong.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.tb_Luong.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.tb_Luong.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.tb_Luong.FocusedState.BorderColor = System.Drawing.Color.Black;
+            this.tb_Luong.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold);
+            this.tb_Luong.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.tb_Luong.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(218)))), ((int)(((byte)(223)))));
+            this.tb_Luong.Location = new System.Drawing.Point(33, 507);
+            this.tb_Luong.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.tb_Luong.Name = "tb_Luong";
+            this.tb_Luong.PasswordChar = '\0';
+            this.tb_Luong.PlaceholderText = "";
+            this.tb_Luong.SelectedText = "";
+            this.tb_Luong.Size = new System.Drawing.Size(415, 46);
+            this.tb_Luong.TabIndex = 0;
+            this.tb_Luong.TextChanged += new System.EventHandler(this.tb_Luong_TextChanged);
+            // 
+            // CapTaiKhoan
+            // 
+            this.CapTaiKhoan.Animated = true;
+            this.CapTaiKhoan.BackColor = System.Drawing.Color.Transparent;
+            this.CapTaiKhoan.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(218)))), ((int)(((byte)(223)))));
+            this.CapTaiKhoan.BorderRadius = 4;
+            this.CapTaiKhoan.BorderThickness = 1;
+            this.CapTaiKhoan.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.CapTaiKhoan.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.CapTaiKhoan.FillColor = System.Drawing.Color.White;
+            this.CapTaiKhoan.FocusedColor = System.Drawing.Color.Transparent;
+            this.CapTaiKhoan.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold);
+            this.CapTaiKhoan.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(106)))), ((int)(((byte)(106)))), ((int)(((byte)(111)))));
+            this.CapTaiKhoan.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(0)))), ((int)(((byte)(164)))));
+            this.CapTaiKhoan.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
+            this.CapTaiKhoan.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image14")));
+            this.CapTaiKhoan.Image = ((System.Drawing.Image)(resources.GetObject("CapTaiKhoan.Image")));
+            this.CapTaiKhoan.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.CapTaiKhoan.Location = new System.Drawing.Point(419, 95);
+            this.CapTaiKhoan.Margin = new System.Windows.Forms.Padding(4);
+            this.CapTaiKhoan.Name = "CapTaiKhoan";
+            this.CapTaiKhoan.Size = new System.Drawing.Size(212, 50);
+            this.CapTaiKhoan.TabIndex = 27;
+            this.CapTaiKhoan.Text = "Cấp tài khoản";
+            this.CapTaiKhoan.TextOffset = new System.Drawing.Point(5, 0);
+            this.CapTaiKhoan.Click += new System.EventHandler(this.CapTaiKhoan_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label2.Location = new System.Drawing.Point(29, 390);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(47, 20);
+            this.label2.TabIndex = 11;
+            this.label2.Text = "Email";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label3.Location = new System.Drawing.Point(29, 482);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(50, 20);
+            this.label3.TabIndex = 12;
+            this.label3.Text = "lương";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label4.Location = new System.Drawing.Point(31, 283);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(65, 20);
+            this.label4.TabIndex = 11;
+            this.label4.Text = "Chức vụ";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label5.Location = new System.Drawing.Point(31, 99);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(56, 20);
+            this.label5.TabIndex = 12;
+            this.label5.Text = "Địa chỉ";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label6.Location = new System.Drawing.Point(31, 6);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(106, 20);
+            this.label6.TabIndex = 11;
+            this.label6.Text = "Tên nhân viên";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label7.Location = new System.Drawing.Point(29, 194);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(36, 20);
+            this.label7.TabIndex = 11;
+            this.label7.Text = "SDT";
+            // 
             // nhan_vien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -1036,7 +1030,6 @@
         #endregion
 
         private Guna.UI2.WinForms.Guna2Button xac_nhan;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
         private Guna.UI2.WinForms.Guna2ShadowPanel box_filter;
         private System.Windows.Forms.Label label1;
         private Guna.UI2.WinForms.Guna2ComboBox cbx_filter;
@@ -1052,9 +1045,6 @@
         private Guna.UI2.WinForms.Guna2Button warning4;
         private Guna.UI2.WinForms.Guna2Button huy;
         private Guna.UI2.WinForms.Guna2Button warning3;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel4;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
         private Guna.UI2.WinForms.Guna2TextBox tb_chucVu;
         private Guna.UI2.WinForms.Guna2TextBox tb_address;
         private Guna.UI2.WinForms.Guna2TextBox tb_phone;
@@ -1066,9 +1056,7 @@
         private Guna.UI.WinForms.GunaPanel edit_box;
         private Guna.UI2.WinForms.Guna2ShadowPanel guna2ShadowPanel1;
         private Guna.UI2.WinForms.Guna2TextBox tb_Email;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel6;
         private Guna.UI2.WinForms.Guna2TextBox tb_Luong;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel5;
         private Guna.UI2.WinForms.Guna2Button warning5;
         private Guna.UI2.WinForms.Guna2Button CapTaiKhoan;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
@@ -1080,5 +1068,11 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column7;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column8;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column9;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label7;
     }
 }

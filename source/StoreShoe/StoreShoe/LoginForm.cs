@@ -13,9 +13,11 @@ namespace shoe_store_manager
 {
     public partial class LoginForm : Form
     {
+        public static LoginForm instance { get; private set; }
         public LoginForm()
         {
             InitializeComponent();
+            instance = this;
         }
 
         private void gunaLabel1_Click(object sender, EventArgs e)
@@ -57,7 +59,7 @@ namespace shoe_store_manager
                 MainForm f = new MainForm();
                 f.Show();
                 Hide();
-                f.Logout += F_Logout;
+                
             }else
             {
                 MessageBox.Show("Sai tên tài khoản hoặc mật khẩu");
@@ -65,10 +67,6 @@ namespace shoe_store_manager
             
         }
 
-        private void F_Logout(object sender, EventArgs e)
-        {
-            (sender as MainForm).Close();
-            this.Show();
-        }
+        
     }
 }

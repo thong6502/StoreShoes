@@ -68,7 +68,7 @@ namespace shoe_store_manager
         bool check_eye2 = false;
         private void tbx_matKhuaMoi_IconRightClick(object sender, EventArgs e)
         {
-            TogglePasswordVisibility(tbx_matKhuaMoi, ref check_eye2);
+            TogglePasswordVisibility(tbx_matKhauMoi, ref check_eye2);
         }
 
         bool check_eye3 = false;
@@ -80,7 +80,7 @@ namespace shoe_store_manager
         private void btn_XacNhan_Click(object sender, EventArgs e)
         {
             string MatKhau = tbx_matKhau.Text;
-            string MatKhauMoi = tbx_matKhuaMoi.Text;
+            string MatKhauMoi = tbx_matKhauMoi.Text;
             string NLMatKhauMoi = tbx_NLMatKhauMoi.Text;
 
             if(MatKhau == "" || MatKhauMoi == "" || NLMatKhauMoi == "") 
@@ -101,6 +101,7 @@ namespace shoe_store_manager
                     DataProvider.Instance.ExcuteNonQuery(query_UpdateMK, parameter_UpdateMK);
                     clearTextBox();
                     MessageBox.Show("Đổi mật khẩu thành công");
+                    MainForm.Instance.btn_dangXuat_Click(sender, new EventArgs());
                 }
                 else
                 {
@@ -115,7 +116,7 @@ namespace shoe_store_manager
         private void clearTextBox()
         {
             tbx_matKhau.Text = "";
-            tbx_matKhuaMoi.Text = "";
+            tbx_matKhauMoi.Text = "";
             tbx_NLMatKhauMoi.Text = "";
         }
     }
