@@ -253,7 +253,6 @@ C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\bin\Debug\zh-CHT\Microsoft
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\StoreShoe.csproj.AssemblyReference.cache
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.all_don_hang.resources
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.ban_hang.resources
-C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.bao_cao.resources
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.LoginForm.resources
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.MainForm.resources
 C:\D\IT\c#\BTL\STORE_SHOES\source\StoreShoe\StoreShoe\obj\Debug\shoe_store_manager.nhap_hang.resources

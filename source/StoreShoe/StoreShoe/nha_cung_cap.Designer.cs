@@ -41,9 +41,6 @@
             this.warning2 = new Guna.UI2.WinForms.Guna2Button();
             this.xac_nhan = new Guna.UI2.WinForms.Guna2Button();
             this.huy = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.tb_address = new Guna.UI2.WinForms.Guna2TextBox();
             this.tb_phone = new Guna.UI2.WinForms.Guna2TextBox();
             this.edit_box = new Guna.UI2.WinForms.Guna2ShadowPanel();
@@ -56,6 +53,9 @@
             this.btn_HFilter = new Guna.UI2.WinForms.Guna2Button();
             this.btn_filter = new Guna.UI2.WinForms.Guna2Button();
             this.data = new Guna.UI2.WinForms.Guna2DataGridView();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -190,7 +190,7 @@
             this.warning3.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.warning3.ImageOffset = new System.Drawing.Point(3, 0);
             this.warning3.ImageSize = new System.Drawing.Size(15, 15);
-            this.warning3.Location = new System.Drawing.Point(139, 207);
+            this.warning3.Location = new System.Drawing.Point(136, 203);
             this.warning3.Margin = new System.Windows.Forms.Padding(4);
             this.warning3.Name = "warning3";
             this.warning3.Size = new System.Drawing.Size(144, 23);
@@ -287,39 +287,6 @@
             this.huy.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.huy.Click += new System.EventHandler(this.huy_Click);
             // 
-            // guna2HtmlLabel2
-            // 
-            this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel2.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel2.Location = new System.Drawing.Point(33, 108);
-            this.guna2HtmlLabel2.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            this.guna2HtmlLabel2.Size = new System.Drawing.Size(51, 23);
-            this.guna2HtmlLabel2.TabIndex = 1;
-            this.guna2HtmlLabel2.Text = "Địa chỉ";
-            // 
-            // guna2HtmlLabel3
-            // 
-            this.guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel3.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel3.Location = new System.Drawing.Point(33, 204);
-            this.guna2HtmlLabel3.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2HtmlLabel3.Name = "guna2HtmlLabel3";
-            this.guna2HtmlLabel3.Size = new System.Drawing.Size(99, 23);
-            this.guna2HtmlLabel3.TabIndex = 1;
-            this.guna2HtmlLabel3.Text = "Số điện thoại";
-            // 
-            // guna2HtmlLabel1
-            // 
-            this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(36, 23);
-            this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(4);
-            this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(130, 23);
-            this.guna2HtmlLabel1.TabIndex = 1;
-            this.guna2HtmlLabel1.Text = "Tên nhà cung cấp";
-            // 
             // tb_address
             // 
             this.tb_address.Cursor = System.Windows.Forms.Cursors.IBeam;
@@ -368,14 +335,14 @@
             // 
             this.edit_box.AutoScroll = true;
             this.edit_box.BackColor = System.Drawing.Color.Transparent;
+            this.edit_box.Controls.Add(this.label4);
+            this.edit_box.Controls.Add(this.label3);
+            this.edit_box.Controls.Add(this.label2);
             this.edit_box.Controls.Add(this.warning3);
             this.edit_box.Controls.Add(this.warning1);
             this.edit_box.Controls.Add(this.warning2);
             this.edit_box.Controls.Add(this.xac_nhan);
             this.edit_box.Controls.Add(this.huy);
-            this.edit_box.Controls.Add(this.guna2HtmlLabel2);
-            this.edit_box.Controls.Add(this.guna2HtmlLabel3);
-            this.edit_box.Controls.Add(this.guna2HtmlLabel1);
             this.edit_box.Controls.Add(this.tb_address);
             this.edit_box.Controls.Add(this.tb_phone);
             this.edit_box.Controls.Add(this.tb_name);
@@ -404,7 +371,7 @@
             this.warning1.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.warning1.ImageOffset = new System.Drawing.Point(3, 0);
             this.warning1.ImageSize = new System.Drawing.Size(15, 15);
-            this.warning1.Location = new System.Drawing.Point(171, 23);
+            this.warning1.Location = new System.Drawing.Point(160, 21);
             this.warning1.Margin = new System.Windows.Forms.Padding(4);
             this.warning1.Name = "warning1";
             this.warning1.Size = new System.Drawing.Size(144, 23);
@@ -651,6 +618,36 @@
             this.data.ThemeStyle.RowsStyle.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(61)))), ((int)(((byte)(169)))));
             this.data.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.White;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(34, 21);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(130, 20);
+            this.label2.TabIndex = 10;
+            this.label2.Text = "Tên nhà cung cấp";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(29, 112);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(56, 20);
+            this.label3.TabIndex = 10;
+            this.label3.Text = "Địa chỉ";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(29, 201);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(100, 20);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "Số điện thoại";
+            // 
             // Column1
             // 
             this.Column1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
@@ -663,14 +660,17 @@
             // 
             // Column2
             // 
+            this.Column2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.DisplayedCells;
             this.Column2.DataPropertyName = "MaNCC";
             this.Column2.HeaderText = "ID";
             this.Column2.MinimumWidth = 6;
             this.Column2.Name = "Column2";
             this.Column2.ReadOnly = true;
+            this.Column2.Width = 59;
             // 
             // Column3
             // 
+            this.Column3.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.Column3.DataPropertyName = "TenNCC";
             this.Column3.HeaderText = "Tên nhà cung cấp";
             this.Column3.MinimumWidth = 6;
@@ -679,6 +679,7 @@
             // 
             // Column4
             // 
+            this.Column4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.Column4.DataPropertyName = "DiaChi";
             this.Column4.HeaderText = "Địa chỉ";
             this.Column4.MinimumWidth = 6;
@@ -687,6 +688,7 @@
             // 
             // Column5
             // 
+            this.Column5.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.Column5.DataPropertyName = "SDT";
             this.Column5.HeaderText = "SDT";
             this.Column5.MinimumWidth = 6;
@@ -730,9 +732,6 @@
         private Guna.UI2.WinForms.Guna2Button warning2;
         private Guna.UI2.WinForms.Guna2Button xac_nhan;
         private Guna.UI2.WinForms.Guna2Button huy;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
         private Guna.UI2.WinForms.Guna2TextBox tb_address;
         private Guna.UI2.WinForms.Guna2TextBox tb_phone;
         private Guna.UI2.WinForms.Guna2ShadowPanel edit_box;
@@ -745,6 +744,9 @@
         private Guna.UI2.WinForms.Guna2Button btn_filter;
         private Guna.UI2.WinForms.Guna2Button warning1;
         private Guna.UI2.WinForms.Guna2DataGridView data;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column3;

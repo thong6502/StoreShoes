@@ -41,6 +41,7 @@ namespace shoe_store_manager
             InitializeCamera();
             addDataTable();
             CreateId();
+            lbl_result.Text = "";
         }
         private void addDataTable()
         {
