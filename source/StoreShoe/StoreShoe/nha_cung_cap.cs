@@ -23,7 +23,6 @@ namespace shoe_store_manager
 
         private void nha_cung_cap_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'storeShoesDataSet.NhaCungCap' table. You can move, or remove it, as needed.
             tbWarningPairs();
             addDataSource();
         }
@@ -208,7 +207,7 @@ namespace shoe_store_manager
             else if (cbx_filter.Text == "Địa chỉ")
                 query = "SELECT * FROM NhaCungCap WHERE DiaChi LIKE @str_search";
             else
-                return;  // Nếu cbx_filter.Text không phải là một trong các giá trị mong đợi, thoát khỏi hàm
+                return; 
 
             object[] parameter = new object[] { str_search };
             data.DataSource = DataProvider.Instance.ExcuteQuery(query, parameter);
